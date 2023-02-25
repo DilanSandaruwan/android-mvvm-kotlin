@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android MVVM App</string>
+    <string name="like">Like</string>
+    <string name="dis_like">Dislike</string>
+    <string name="exit">Exit</string>
+    <string name="title">Likes\/Dislikes Counter</string>
+</resources>
